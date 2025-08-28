@@ -1,14 +1,12 @@
 # PRAZER, EU SOU O LEO...
 # 🚀 Jornada Python:  Esse é meu caminho na programação
 
-
-![GIF engraçado](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTBkNWZla2xzM2EzdDhhODB3cTN6Z2VxYm96ZjMzaXA0Y2p4NXVpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eCwAEs05phtK/giphy.gif)
+(![Rock Coding GIF](https://media4.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif)
 
 ## 🧠 Sobre mim
 
 - 🎓 Estudante em busca de conhecimento na área de desenvolvimento
 - 🐍 Focado em aprender Python e suas aplicações
-- 💡 Curioso por automação, análise de dados e desenvolvimento web
 - 📘 Sempre aberto a feedbacks e novas ideias!
 
 ## 📂 O que você vai encontrar aqui
@@ -27,12 +25,9 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- Python 3.x
+- Python 
 - Jupyter Notebook
-- VS Code
 - Git e GitHub
-
-
 
 ## 📬 Contato
 
@@ -41,4 +36,4 @@ Quer trocar uma ideia ou dar um feedback? Me chama por aqui mesmo no GitHub ou p
 - INSTAGRAM: leleo_de.le
 
 
-> “A jornada de mil linhas de código começa com o primeiro `print()`.” 😄
+# “A jornada de mil linhas de código começa com o primeiro `print()`.” 😄
